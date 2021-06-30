@@ -49,6 +49,42 @@ const Sidebar = () =>{
                         <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
                         <span className="sidebarFriendName">George Ojwang'</span>
                     </li>
+                    <li className="sidebarFriend">
+                        <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
+                        <span className="sidebarFriendName">George Ojwang'</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
+                        <span className="sidebarFriendName">George Ojwang'</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
+                        <span className="sidebarFriendName">George Ojwang'</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
+                        <span className="sidebarFriendName">George Ojwang'</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
+                        <span className="sidebarFriendName">George Ojwang'</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
+                        <span className="sidebarFriendName">George Ojwang'</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
+                        <span className="sidebarFriendName">George Ojwang'</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
+                        <span className="sidebarFriendName">George Ojwang'</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img className = "sidebarFriendImg" src="/assets/person/2.jpg" alt=""/>
+                        <span className="sidebarFriendName">George Ojwang'</span>
+                    </li>
                 </ul>
             </div>
         </div>
