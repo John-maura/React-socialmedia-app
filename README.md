@@ -1,3 +1,5 @@
+This social media project is stil in process, I am building it to practice my React.js skills
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
